@@ -355,9 +355,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📧 Contact
 
-**Project Maintainer:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Project Maintainer:** AHILL S 
+**Email:** sa.education5211@gmail.com 
+**GitHub:** [@yourusername](https://github.com/AHILL-0121)
 
 ---
 
